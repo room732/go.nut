@@ -28,6 +28,7 @@ func ExampleGetUPSList() {
 	upsList, listErr := client.GetUPSList()
 	if listErr != nil {
 		fmt.Print(listErr)
+		return
 	}
 	fmt.Print("First UPS", upsList[0])
 }
