@@ -1,3 +1,3 @@
-module github.com/robbiet480/go.nut
+module github.com/room732/go.nut
 
 go 1.15

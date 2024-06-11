@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	nut "github.com/robbiet480/go.nut"
+	nut "github.com/room732/go.nut"
 )
 
 func main() {
