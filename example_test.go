@@ -3,7 +3,7 @@ package nut
 import (
 	"fmt"
 
-	nut "github.com/robbiet480/go.nut"
+	nut "github.com/room732/go.nut"
 )
 
 // This example connects to NUT, authenticates and returns the first UPS listed.
